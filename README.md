@@ -1,4 +1,4 @@
-# Animal-Doctor-World-Website
+# Animal Doctor World Website
 ### Project Description:
 * A responsive web design project showcasing different varieties of dogs, their services, recent updates, and a user-friendly footer section for quick navigation.
 
@@ -36,7 +36,7 @@
 * Bootstrap and Bootstrap Icons CDN.
 
 ##### Images
-* ![image](https://github.com/Bhuvneshjai/Animal-Doctor-World-Website/assets/82877515/3e73612e-a4c4-4036-aa5d-2024790d657f)
+ ![image](https://github.com/Bhuvneshjai/Animal-Doctor-World-Website/assets/82877515/3e73612e-a4c4-4036-aa5d-2024790d657f)
 
 ##### Website Link
-* https://bhuvneshjai.github.io/Animal-Doctor-World-Website/index.html
+https://bhuvneshjai.github.io/Animal-Doctor-World-Website/index.html
